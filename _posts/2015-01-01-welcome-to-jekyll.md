@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Welcome to Jekyll!
-subtitle: A awesome static site generator.
-author: Jeffrey
-categories: jekyll
+title: Welcome to Zhugeliang
+subtitle: Graduation Design of Three People( Xiaoqi Wang, Tong Wu, YuMing Zhou)
+author: Xiaoqi Wang
+categories: Intorduction
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
