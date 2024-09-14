@@ -5,7 +5,7 @@ subtitle: Graduation Design of Three People( Xiaoqi Wang, Tong Wu, YuMing Zhou)
 author: Xiaoqi Wang
 categories: Intorduction
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+
   loop: true
   volume: 0.8
   start_at: 8.5
@@ -16,7 +16,7 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: 
 top: 1
 sidebar: []
 ---
